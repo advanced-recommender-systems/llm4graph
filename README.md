@@ -1,5 +1,6 @@
-# llm4graph.github.io
-Large Language Models for Graph Learning (LLMs4Graph) Workshop @WWW'24
+# LLM4Graph, https://advanced-recommender-systems.github.io/llm4graph/ 
+Large Language Models for Graph Learning (LLMs4Graph) Worksh
+op @WWW'24
 
 
 Graphs are widely applied to encode entities with various relations in web applications such as social media and recommender systems. Meanwhile, graph learning-based technologies, such as graph neural networks, are demanding to support the analysis, understanding and usage of the data in graph structures. Recently, the boom of language foundation models, especially Large Language Models (LLMs), has advanced several main research areas in artificial intelligence, such as natural language processing, graph mining and recommender systems. The synergy between LLMs and graph learning holds great potential to prompt the research in both areas. For example, LLMs can facilitate existing graph learning models by providing high-quality textual features for entities and edges, or enhancing the graph data with encoded knowledge and information. It may also innovate with novel problem formulations on graph-related tasks. Due to the research significance as well as the potentials, the convergent area of LLMs and graph learning has attracted considerable research attention.
